@@ -128,7 +128,7 @@
   }
   .site-header-left {
     display: inline-block;
-    filter: drop-shadow(2px 2px 1px #002928);
+    filter: drop-shadow(2px 2px 1px #555249);
   }
   .site-header-left li {
     line-height: 0;
@@ -219,7 +219,7 @@
     margin: 1em 0 40px;;
   }
   .photo-hero h1 span {
-    color: #333333;
+    color: #555249;
   }
   .photo-hero p {
     color: #002928;
