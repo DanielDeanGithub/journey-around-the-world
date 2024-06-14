@@ -128,6 +128,7 @@
   }
   .site-header-left {
     display: inline-block;
+    filter: drop-shadow(2px 2px 1px #002928);
   }
   .site-header-left li {
     line-height: 0;
